@@ -1,2 +1,2 @@
 # Form
-remote_theme: singh
+remote_theme: minimal
